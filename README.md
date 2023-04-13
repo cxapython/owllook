@@ -160,14 +160,3 @@ VAL_HOST = os.getenv('VAL_HOST', 'false')
 ### License
 
 `owllook` is offered under the Apache 2 license.
-
-### Donate
-
-**捐赠：**
-
-> 美酒加咖啡，我只要喝一杯～
-
-<img src="https://raw.githubusercontent.com/howie6879/howie6879.github.io/img/pictures/20190904201512.png" width = "400" height = "400" alt="donate" align=center />
-
-
-感谢以下捐赠者，具体见[捐赠名单](./DONATE.md) ^_^
